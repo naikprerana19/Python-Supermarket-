@@ -8,7 +8,7 @@ products = {
     "eggs": 80
 }
 
-1cart = {}
+cart = {}
 
 def show_products():
     print("\n📦 Available Products:")
@@ -107,3 +107,4 @@ while True:
         break
     else:
         print("❌ Invalid choice. Try again.")
+
