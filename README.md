@@ -18,7 +18,7 @@
 - Python
 - CLI Development
 
-LinkedIn:linkedin.com/in/prerana-naik-44515a331
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7403404204922494976/
 
 #Python #DataScience #CLI #Supermarket #Project #OpenSource"
 
