@@ -1,4 +1,4 @@
-# Python-Supermarket
+# Online-Supermarket
 "🚀 Python Developer| Problem Solver
 
 🛍 Online Supermarket Project
