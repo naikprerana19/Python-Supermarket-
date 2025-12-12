@@ -1,7 +1,7 @@
 # Python-Supermarket
 "🚀 Python Developer| Problem Solver
 
-🛍 Python Supermarket Project
+🛍 Online Supermarket Project
 
 - A command-line interface (CLI) application simulating a supermarket experience
 - Features product browsing, cart management, and checkout with discount logic 🎁
